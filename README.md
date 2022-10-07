@@ -57,4 +57,4 @@ npm start
 ```
 
 
-4. Finally, access http://localhost:3000 (the port ':3000' is subjected to changes) on your favorite browser
+4. Finally, access http://localhost:3000 (the port ':3000' is subjected to changes) on your favorite browser. Deployed on vercel, check about for link.
