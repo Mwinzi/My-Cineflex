@@ -13,7 +13,7 @@ Single-Page Application made to a movie theater, using ```React Router``` for th
 ### About
 
 This application has the following features:
-  - Uses mock API provided by AXIOM, Display a catalog including a broad range of movies
+  - Uses mock API provided by AXIOS, Display a catalog including a broad range of movies
   - Lists lots of sessions to the choosen movie
   - Show up a grid of available seats
     - Enables the user to choose their seats and also input their name and phone number
