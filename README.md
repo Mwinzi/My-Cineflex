@@ -13,13 +13,13 @@ Single-Page Application made to a movie theater, using ```React Router``` for th
 ### About
 
 This application has the following features:
-  - Display a catalog including a broad range of movies
+  - Uses mock API provided by AXIOM, Display a catalog including a broad range of movies
   - Lists lots of sessions to the choosen movie
   - Show up a grid of available seats
-    - Enables the user to choose their seats and also input their name and CPF
+    - Enables the user to choose their seats and also input their name and phone number
   - Shows the receipt with all the useful informatin about the user and movie session
   - Also, enables the user to navigate to past pages with a left arrow button located at the page's top right
-  - And, on the final receipt page, it's possible to go back to the home page
+  - And, on the final receipt page, it's possible to load the home page
 
 ## Built with
 
